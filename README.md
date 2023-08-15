@@ -8,7 +8,7 @@ I'm Emilia, a passionate physics nerd interested in software development and qua
 
 ## About Me
 
-- 🎓 Undergraduate in physics and computer science from the University of Southern California.
+- 🎓 Undergraduate in physics and computer science at the University of Southern California.
 - 🌱 Enthusiastic learner, always seeking opportunities to expand my skill set.
 - 💡 Hoping to work in fields at the intersections of technology and physics.
 
