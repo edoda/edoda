@@ -10,13 +10,13 @@ I'm Emilia, a passionate physics nerd interested in software development and qua
 
 - 🎓 Undergraduate in physics and computer science at the University of Southern California.
 - 🌱 Enthusiastic learner, always seeking opportunities to expand my skill set.
-- 💡 Hoping to work in fields at the intersections of technology and physics.
+- 💡 Hoping to work in fields at the intersections of CS and physics.
 
 ## Tech Stack
 
-- 💻 Proficient in: ReactJS, JavaScript, HTML, Tailwind CSS, SQL, MongoDB.
-- 🔧 Experienced with: C++, C, Java (& Java Servlets).
-- 🌐 Tools & services: Docker, Git, Vercel.
+- 💻 Proficient with: NextJS, ReactJS, JavaScript, HTML, Tailwind CSS, SQL.
+- 🔧 Experienced with: C++, C, Java.
+- 🌐 Tools & services: Docker, Git, Vercel, MongoDB.
 
 ## Current Project
-- 📷 Working on my personal photography website in ReactJS with Cloudinary API integration.
+- 📷 Working on my personal photography website in NextJS with Cloudinary API integration.
