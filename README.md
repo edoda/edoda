@@ -14,9 +14,6 @@ I'm Emilia, a passionate physics student interested in software development and 
 
 ## Tech Stack
 
-- 💻 Proficient with: NextJS, ReactJS, JavaScript, HTML, Tailwind CSS, SQL.
+- 💻 Proficient with: NextJS, ReactJS, JavaScript, HTML, TailwindCSS, SQL.
 - 🔧 Experienced with: C++, C, Java.
 - 🌐 Tools & services: Docker, Git, Vercel, MongoDB.
-
-## Current Project
-- 📷 Working on my personal photography website in NextJS with Cloudinary API integration.
